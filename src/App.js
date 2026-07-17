@@ -9,7 +9,7 @@ function App() {
   return (
     <div
       style={{
-        height: "100vh",
+        height: "50vh",
         background: theme === "light" ? "#f5f5f5" : "#1a1a1a",
         color: theme === "light" ? "#000" : "#fff",
         transition: "0.3s",
